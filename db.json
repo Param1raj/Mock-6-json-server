@@ -1,0 +1,28 @@
+{
+    "users":[
+
+    ],
+    "tasks":[
+        {
+            "id":1,
+            "task":"Morning walk",
+            "date":"",
+            "status":false,
+            "userId":1
+        },
+        {
+            "id":2,
+            "task":"Learning Redux",
+            "date":"",
+            "status":false,
+            "userId":1
+        },
+        {
+            "id":3,
+            "task":"DSA contest",
+            "date":"",
+            "status":false,
+            "userId":1
+        }
+    ]   
+}
